@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <title>Alexandre Pineau</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="myScript.js"></script>
+    </head>
+    <body>
+        <div class="grid-container">
+            <div class="header">
+                <div class="thetitle">
+                    <h1>
+                        Alexandre Pineau's Portfolio 
+                    </h1>
+                </div>
+                <div class="navs">
+                    <div>
+                        <h1>
+                            1
+                        </h1>
+                    </div>
+                    <div>
+                        <h1>
+                            2
+                        </h1>
+                    </div>
+                    <div>
+                        <h1>
+                            3
+                        </h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main">
+                <div class="row1">
+                    <div class="title1">
+                        <h2>
+                            About me
+                        </h2>
+                        <!--<img src="Images/edge7_41789825441_o.jpg" id="me">-->
+                    </div>
+                    <div class="about">
+                        <div>
+                            <p>
+                                I am X years old and studying software engineering at the University of Ottawa. 
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                                I have experience with the following languages
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row2">
+                    <div class="title2">
+                        <h2>
+                            My projects
+                        </h2>
+                    </div>
+                    <div class="projects">
+                        <div>
+                            <h3>
+                                CCC 2017
+                            </h3>
+                        </div>
+                        <div>
+                            <h3>
+                                The Planets
+                            </h3>
+                        </div>
+                        <div>
+                            <h3>
+                                Seaside
+                            </h3>
+                        </div>
+                        <div>
+                            <h3>
+                                Kitcheon
+                            </h3>
+                        </div>
+                    </div>
+                </div>  
+                    
+                <div class="row3">
+                    <div>
+                        <h2>
+                            Contact Info
+                        </h2>
+                    </div>
+                    <div>
+                        <p>
+                            alecpineau@gmail.com
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
