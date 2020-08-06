@@ -1,0 +1,16 @@
+/*
+body{
+    background-image: url('concept2.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*/
+
+#front{
+    background-color: #92d5db;
+}
+
+#tower, #myinfo{
+    margin-top: 2%;
+}
