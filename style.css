@@ -14,3 +14,7 @@ body{
 #tower, #myinfo{
     margin-top: 2%;
 }
+
+#cards1, #cards2{
+    margin-right: 2%;
+}

@@ -3,6 +3,8 @@
     <head>
         <title>Alexandre Pineau</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!--Bootstrap CDN-->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
@@ -10,16 +12,79 @@
     </head>
     <body>
         <div class="row" id="front">
-            <div class="col-lg-4" id="tower">
-                <img src="SVGs/concept3.svg">
+            <!--Peace Tower SVG-->
+            <div class="col-lg-3" id="tower">
+                <img src="SVGs/tower.svg">
             </div>
-            <div class="col-lg-8" id="myinfo">
+
+            <!--Info section-->
+            <div class="col-lg-9" id="myinfo">
                 <h1>Alexandre Pineau</h1>
-                <h3>University of Ottawa</br>Software Engineering Student</h3>
+                <h3>University of Ottawa</br>Software Engineering Student</h3></br>
+
+                <!--Info clouds-->
+                <div class="row" id="cards1">
+                    <div class="col-lg-4">
+                        <img src="SVGs/about-cloud.svg" data-toggle="modal" data-target="#aboutMe">
+                    </div>
+                    <div class="col-lg-4">
+                        <img src="SVGs/work-cloud.svg" data-toggle="modal" data-target="#experience">
+                    </div>
+                    <div class="col-lg-4">
+                        <a href="https://github.com/AlexandrePineau"><img src="SVGs/github-cloud.svg"></a>
+                    </div>
+                </div>
             </div>
         </div>
 
+        <!--Modals-->
+        <div class="modal" id="aboutMe">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">About Me</h4>
+                        <button type="button" class="close" data-dismiss="modal">X</button>
+                    </div>
+                    <div class="modal-body">
+                        I am in my third year at the University of Ottawa studying software engineering. I have a deep interest in all things
+                        related to software from UI design to studying algorithms. I most enjoy creating websites and exploring new web
+                        technologies. Apart from socializing with friends, in my spare time I enjoy playing sports as well as playing music.
+                        Hockey, baseball and golf are my favourite sports. Also, I like to play the drums, the guitar and the banjo.
+                    </div>
+                </div>
+            </div>
+        </div>
 
+        <div class="modal" id="experience">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Work Experience</h4>
+                        <button type="button" class="close" data-dismiss="modal">X</button>
+                    </div>
+                    <div class="modal-body">
+                        Boston Pizza – 3 years
+                        <ul>
+                            <li>Dishwasher</li>
+                            <li>Cook</li>
+                            <li>Delivery driver</li>
+                        </ul>
+                        Shared Services Canada – 4 months (one CO-OP term)
+                        <ul>
+                            <li>Junior developer
+                                <ul>
+                                    <li>Worked on a Python test script for benchmarking HTTP servers</li>
+                                    <li>Worked with PHP and the Symfony framework</li>
+                                    <li>Created a visual tree building algorithm using JavaScript</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Scripts-->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
             integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
             crossorigin="anonymous"></script>
