@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="about-cloud.svg">
+   sodipodi:docname="linkedin-cloud.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
      inkscape:cx="137.91626"
-     inkscape:cy="86.189342"
+     inkscape:cy="82.670221"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -55,52 +55,59 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      sodipodi:insensitive="true"
      inkscape:label="Cloud"
-     inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:groupmode="layer">
     <rect
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.23668;paint-order:stroke markers fill"
-       id="rect835"
-       width="76.134041"
+       ry="14.294034"
+       y="22.71026"
+       x="1.618335"
        height="28.588072"
-       x="1.6204783"
-       y="22.712563"
-       ry="14.294034" />
+       width="76.134041"
+       id="rect835"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.23667;paint-order:stroke markers fill" />
     <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill"
-       id="path840"
-       cx="24.041283"
-       cy="21.475973"
+       ry="13.683365"
        rx="14.020788"
-       ry="13.683365" />
+       cy="15.413863"
+       cx="22.716225"
+       id="path840"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.46559;paint-order:stroke markers fill" />
     <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill"
-       id="path844"
-       cx="48.406227"
-       cy="21.475973"
+       ry="19.736162"
        rx="19.678295"
-       ry="19.736162" />
+       cy="21.466661"
+       cx="44.127319"
+       id="path844"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.46559;paint-order:stroke markers fill" />
+    <ellipse
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:2.02279;paint-order:stroke markers fill"
+       id="ellipse836"
+       cx="60.726776"
+       cy="21.091921"
+       rx="11.485766"
+       ry="11.519543" />
   </g>
   <g
      inkscape:label="Text"
-     id="layer2"
+     id="layer1"
      inkscape:groupmode="layer">
     <text
        id="text836"
-       y="34.336159"
-       x="12.178689"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       y="33.430622"
+       x="40.923798"
+       style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-         y="34.336159"
-         x="12.178689"
-         id="tspan834"
-         sodipodi:role="line">About me</tspan></text>
+         id="tspan838"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="33.430622"
+         x="40.923798"
+         sodipodi:role="line">LinkedIn</tspan></text>
   </g>
 </svg>

@@ -12,10 +12,6 @@
     animation-duration: 3s;
 }
 
-#cards1, #cards2{
-    margin-right: 2%;
-}
-
 .cloud{
     position: relative;
     animation-name: cloud;
