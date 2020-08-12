@@ -7,47 +7,48 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300"
-   height="200"
-   viewBox="0 0 79.374997 52.916667"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="github-cloud.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="github-cloud.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 79.374997 52.916667"
+   height="200"
+   width="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     showguides="false"
-     inkscape:snap-intersection-paths="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="137.91626"
-     inkscape:cy="86.189342"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-page="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-text-baseline="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:snap-global="false"
+     inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="false"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="86.189342"
+     inkscape:cx="137.91626"
+     inkscape:zoom="2.8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-intersection-paths="true"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -56,52 +57,52 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
-     inkscape:label="Cloud"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Cloud">
     <rect
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.23668;paint-order:stroke markers fill"
-       id="rect835"
-       width="76.134041"
-       height="28.588072"
-       x="1.6204783"
+       ry="14.294034"
        y="22.712563"
-       ry="14.294034" />
+       x="1.6204783"
+       height="28.588072"
+       width="76.134041"
+       id="rect835"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.23668;paint-order:stroke markers fill" />
     <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill"
-       id="path840"
-       cx="24.041283"
-       cy="21.475973"
+       ry="13.683365"
        rx="14.020788"
-       ry="13.683365" />
+       cy="23.082371"
+       cx="55.791283"
+       id="path840"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill" />
     <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill"
-       id="path844"
-       cx="48.406227"
-       cy="21.475973"
+       ry="19.736162"
        rx="19.678295"
-       ry="19.736162" />
+       cy="21.570469"
+       cx="29.790897"
+       id="path844"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill" />
   </g>
   <g
-     inkscape:label="Text"
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:label="Text">
     <text
-       id="text836"
-       y="39.225002"
-       x="39.765934"
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         id="tspan838"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="39.225002"
+       x="39.765934"
+       y="39.225002"
+       id="text836"><tspan
+         sodipodi:role="line"
          x="39.765934"
-         sodipodi:role="line">GitHub</tspan></text>
+         y="39.225002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan838">GitHub</tspan></text>
   </g>
 </svg>

@@ -47,7 +47,8 @@
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -56,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,27 +67,27 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.23668;paint-order:stroke markers fill"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.09458;paint-order:stroke markers fill"
        id="rect835"
-       width="76.134041"
-       height="28.588072"
-       x="1.6204783"
-       y="22.712563"
-       ry="14.294034" />
+       width="76.276138"
+       height="26.084335"
+       x="1.5494298"
+       y="25.287348"
+       ry="13.042166" />
     <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:4.8088;paint-order:stroke markers fill"
        id="path840"
-       cx="24.041283"
-       cy="21.475973"
-       rx="14.020788"
-       ry="13.683365" />
+       cx="30.747635"
+       cy="22.42948"
+       rx="20.488258"
+       ry="18.029259" />
     <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.4656;paint-order:stroke markers fill"
+       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.25002;paint-order:stroke markers fill"
        id="path844"
-       cx="48.406227"
-       cy="21.475973"
-       rx="19.678295"
-       ry="19.736162" />
+       cx="51.804539"
+       cy="21.269333"
+       rx="18.645306"
+       ry="18.318811" />
   </g>
   <g
      inkscape:label="Text"
@@ -107,6 +108,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="40.673927"
          x="39.99173"
-         sodipodi:role="line">Eexperience</tspan></text>
+         sodipodi:role="line">Experience</tspan></text>
   </g>
 </svg>

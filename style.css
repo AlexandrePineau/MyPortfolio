@@ -1,12 +1,3 @@
-/*
-body{
-    background-image: url('concept2.svg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-*/
-
 #front{
     background-color: #92d5db;
 }
@@ -15,6 +6,28 @@ body{
     margin-top: 2%;
 }
 
+#tower{
+    position: relative;
+    animation-name: tower;
+    animation-duration: 3s;
+}
+
 #cards1, #cards2{
     margin-right: 2%;
+}
+
+.cloud{
+    position: relative;
+    animation-name: cloud;
+    animation-duration: 3s;
+}
+
+@keyframes cloud{
+    0%   {right:30px;}
+    100% {right:0px;}
+}
+
+@keyframes tower{
+    0%   {top:30px;}
+    100% {top:0px;}
 }
