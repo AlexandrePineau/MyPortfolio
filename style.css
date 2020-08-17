@@ -1,5 +1,6 @@
 #front{
-    background-color: #92d5db;
+    background: rgb(146,213,219);
+    background: linear-gradient(180deg, rgba(146,213,219,1) 0%, rgba(255,220,170,1) 100%);
 }
 
 #tower, #myinfo{
@@ -19,11 +20,11 @@
 }
 
 @keyframes cloud{
-    0%   {right:30px;}
+    0%   {right:40px;}
     100% {right:0px;}
 }
 
 @keyframes tower{
-    0%   {top:30px;}
+    0%   {top:40px;}
     100% {top:0px;}
 }
