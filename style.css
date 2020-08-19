@@ -13,10 +13,32 @@
     animation-duration: 3s;
 }
 
+#plane1{
+    position: relative;
+    animation-name: plane1;
+    animation-duration: 3s;
+}
+
+#plane2{
+    position: relative;
+    animation-name: plane2;
+    animation-duration: 3s;
+}
+
 .cloud{
     position: relative;
     animation-name: cloud;
     animation-duration: 3s;
+}
+
+@keyframes plane1{
+    0%   {right:100px;}
+    100% {right:0px;}
+}
+
+@keyframes plane2{
+    0%   {left:100px;}
+    100% {left:0px;}
 }
 
 @keyframes cloud{
