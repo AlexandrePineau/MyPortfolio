@@ -12,7 +12,7 @@
    viewBox="0 0 79.374997 52.916667"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="work-cloud.svg">
   <defs
      id="defs2" />
@@ -62,51 +62,35 @@
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
      inkscape:label="Cloud"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.09458;paint-order:stroke markers fill"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <path
        id="rect835"
-       width="76.276138"
-       height="26.084335"
-       x="1.5494298"
-       y="25.287348"
-       ry="13.042166" />
-    <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:4.8088;paint-order:stroke markers fill"
-       id="path840"
-       cx="30.747635"
-       cy="22.42948"
-       rx="20.488258"
-       ry="18.029259" />
-    <ellipse
-       style="fill:#93a7ac;stroke:#93a7ac;stroke-width:3.25002;paint-order:stroke markers fill"
-       id="path844"
-       cx="51.804539"
-       cy="21.269333"
-       rx="18.645306"
-       ry="18.318811" />
+       style="fill:#93a7ac;stroke:#000000;stroke-width:3.02362;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 195.70703,11.152344 A 70.470446,69.236453 0 0 0 153.46484,25.035156 77.435937,68.14208 0 0 0 116.21094,16.630859 77.435937,68.14208 0 0 0 38.775391,84.773438 77.435937,68.14208 0 0 0 40.21875,97.865234 C 20.254629,104.16262 5.8554688,122.7686 5.8554688,144.86719 c 0,27.30844 21.9845222,49.29297 49.2929692,49.29297 H 244.85156 c 27.30845,0 49.29297,-21.98453 49.29297,-49.29297 0,-20.6614 -12.58922,-38.26662 -30.54297,-45.61719 a 70.470446,69.236453 0 0 0 2.66602,-18.861328 70.470446,69.236453 0 0 0 -70.4707,-69.236328 70.470446,69.236453 0 0 0 -0.0898,0 z"
+       transform="scale(0.26458333)" />
   </g>
   <g
      inkscape:label="Text"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        id="text836"
-       y="26.562801"
+       y="24.956402"
        x="39.99173"
        style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="26.562801"
+         y="24.956402"
          x="39.99173"
          id="tspan834"
          sodipodi:role="line">Work</tspan><tspan
          id="tspan838"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="40.673927"
+         y="39.067528"
          x="39.99173"
          sodipodi:role="line">Experience</tspan></text>
   </g>

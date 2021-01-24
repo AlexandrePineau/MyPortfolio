@@ -1,16 +1,30 @@
-#front{
+body{
     background: rgb(146,213,219);
     background: linear-gradient(180deg, rgba(146,213,219,1) 0%, rgba(255,220,170,1) 100%);
 }
 
-#tower, #myinfo{
-    margin-top: 2%;
+table, th, td {
+    /*border: 1px solid black;*/
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
-#tower{
-    position: relative;
-    animation-name: tower;
-    animation-duration: 3s;
+/*
+.row{
+    border: 2px solid black;
+}
+*/
+
+#defs2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#front{
+    margin-top: 2%;
+    margin-left: 5%;
 }
 
 #plane1{
