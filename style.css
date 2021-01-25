@@ -1,30 +1,39 @@
-body{
-    background: rgb(146,213,219);
-    background: linear-gradient(180deg, rgba(146,213,219,1) 0%, rgba(255,220,170,1) 100%);
+html{
+    height: 100%;
 }
 
-table, th, td {
-    /*border: 1px solid black;*/
+body{
+    height: 100%;
+    background: rgb(146,213,219);
+    background: linear-gradient(180deg, rgba(146,213,219,1) 0%, rgba(255,220,170,1) 100%);
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#cloudTable, td, th{
     padding-left: 50px;
     padding-right: 50px;
 }
 
-/*
-.row{
-    border: 2px solid black;
-}
-*/
-
-#defs2{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-}
-
-#front{
+#row1{
     margin-top: 2%;
     margin-left: 5%;
+    margin-right: 5%;
+}
+
+#rocket1{
+    position: relative;
+    animation-name: rocket1;
+    animation-duration: 3s;
+}
+
+#rocket2{
+    position: relative;
+    animation-name: rocket1;
+    animation-duration: 3s;
 }
 
 #plane1{
@@ -45,6 +54,11 @@ table, th, td {
     animation-duration: 3s;
 }
 
+@keyframes rocket1{
+    0%   {top:100px;}
+    100% {top:0px;}
+}
+
 @keyframes plane1{
     0%   {right:100px;}
     100% {right:0px;}
@@ -58,9 +72,4 @@ table, th, td {
 @keyframes cloud{
     0%   {right:40px;}
     100% {right:0px;}
-}
-
-@keyframes tower{
-    0%   {top:40px;}
-    100% {top:0px;}
 }

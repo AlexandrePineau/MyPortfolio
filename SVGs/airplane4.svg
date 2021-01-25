@@ -80,11 +80,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Banner"
-     sodipodi:insensitive="true">
+     inkscape:label="Banner">
     <rect
        transform="scale(-1,1)"
-       style="fill:#ffd3d5;fill-opacity:1;stroke:#000000;stroke-width:0.494559;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="fill:#d3e7ff;fill-opacity:1;stroke:#000000;stroke-width:0.494559;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect888"
        width="83.643997"
        height="17.900799"

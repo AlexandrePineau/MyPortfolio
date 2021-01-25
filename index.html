@@ -11,81 +11,49 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <div class="row" id="front">
-            <!--Header and links-->
-            <div class="col-lg-12" id="myinfo">
+        <div class="row">
+            <div class="col-lg-3">
+
+            </div>
+            <!--Header-->
+            <div class="col-lg-6">
                 <h1>Alexandre Pineau</h1>
                 <h3>University of Ottawa</br>Software Engineering Student</h3></br>
-
-                <div class="row" id="plane1">
-                    <!--Image links-->
-                    <div class="col-lg-6" style="border: 2px solid black;">
-                        <!--Plane 1-->
-                        <a href="https://www.linkedin.com/in/alexandre-pineau-175b33173/" target="_blank"><img src="SVGs/airplane3.svg" class="cloud"></a>
-                        <!--Clouds-->
-                        <table>
-                            <tr>
-                                <td>
-                                    <img src="SVGs/about-cloud.svg" class="cloud" data-toggle="modal" data-target="#aboutMe">
-                                </td>
-                                <td>
-                                    <img src="SVGs/work-cloud.svg" class="cloud" data-toggle="modal" data-target="#experience">
-                                </td>
-                            </tr>
-                        </table>
-                        <!--Plane 2-->
-                        <a href="https://github.com/AlexandrePineau" target="_blank"><img src="SVGs/airplane4.svg" class="cloud"></a>
-                    </div>
-                    
-                    <!--Mobile device-->
-                    <div class="col-lg-6" style="border: 2px solid black;">
-                        <div class="d-flex justify-content-center">
-                            <!--Square-->
-                            <svg
-                            xmlns:dc="http://purl.org/dc/elements/1.1/"
-                            xmlns:cc="http://creativecommons.org/ns#"
-                            xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                            xmlns:svg="http://www.w3.org/2000/svg"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="200"
-                            height="250"
-                            viewBox="0 0 52.916665 66.145837"
-                            version="1.1"
-                            id="svg8">
-                            <defs
-                            id="defs2" />
-                            <metadata
-                               id="metadata5">
-                              <rdf:RDF>
-                                <cc:Work
-                                   rdf:about="">
-                                  <dc:format>image/svg+xml</dc:format>
-                                  <dc:type
-                                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                                  <dc:title></dc:title>
-                                </cc:Work>
-                              </rdf:RDF>
-                            </metadata>
-                            <g
-                               id="layer1">
-                              <rect
-                                 style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:1.084;stroke-miterlimit:4;stroke-dasharray:none"
-                                 id="rect833"
-                                 width="48.108513"
-                                 height="62.006531"
-                                 x="2.4054255"
-                                 y="2.1381562"
-                                 ry="2.747777e-07" />
-                            </g>
-                            <!--<foreignObject width="100%" height="100%">
-                              <iframe src="iframe.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-                            </foreignObject>-->
-                            </svg>
-                        </div>
-                    </div>
-                </div>
+            </div>
+            <div class="col-lg-3">
+                
             </div>
         </div>
+        <div class="row">
+            <!--Rocket 1-->
+            <div class="col-lg-3" style="border: 1px solid black;">
+                <img src="SVGs/rocket4.svg" class="float-right" id="rocket1">
+            </div>
+            <!--Airplanes-->
+            <div class="col-lg-6 text-center justify-content-center" style="border: 1px solid black;">
+                 <!--Plane 1-->
+                 <a href="https://www.linkedin.com/in/alexandre-pineau-175b33173/" target="_blank"><img src="SVGs/airplane3.svg" id="plane1"></a></br>
+                 <!--Plane 2-->
+                 <a href="https://github.com/AlexandrePineau" target="_blank"><img src="SVGs/airplane4.svg" id="plane2"></a>
+                 <!--Clouds-->
+                 <table class="table-responsive" id="cloudTable" style="border: 1px solid black;">
+                     <tr style="border: 1px solid black;">
+                         <td>
+                             <img src="SVGs/about-cloud.svg" class="cloud" data-toggle="modal" data-target="#aboutMe">
+                         </td>
+                         <td>
+                             <img src="SVGs/work-cloud.svg" class="cloud" data-toggle="modal" data-target="#experience">
+                         </td>
+                     </tr>
+                 </table>
+            </div>
+            <!--Rocket 2-->
+            <div class="col-lg-3" style="border: 1px solid black;">
+                <img src="SVGs/rocket3.svg" id="rocket2">
+            </div>
+        </div>         
+        
+        <footer>Website designed entirely by myself</footer>
 
         <!--Modals-->
         <div class="modal" id="aboutMe">
