@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="about-cloud.svg">
+   sodipodi:docname="cloud1.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,7 +28,7 @@
      inkscape:cx="205.14839"
      inkscape:cy="130.63072"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -48,7 +48,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -64,28 +64,28 @@
   <g
      inkscape:label="Cloud"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <path
        id="rect835"
-       style="fill:#f0f0f0;stroke:#000000;stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+       style="fill:#f0f0f0;fill-opacity:1;stroke:#000000;stroke-width:2.64567;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        d="M 182.79492,6.5761719 A 74.374659,74.593369 0 0 0 121.58398,39.029297 52.991955,51.716655 0 0 0 90.865234,29.453125 52.991955,51.716655 0 0 0 37.873047,81.169922 52.991955,51.716655 0 0 0 38.695312,90.25 C 19.501062,98.521116 6.125,117.57094 6.125,139.86719 c 0,29.92968 24.093756,54.02539 54.023438,54.02539 H 239.85156 c 29.92968,0 54.02344,-24.09571 54.02344,-54.02539 0,-23.94327 -15.42632,-44.137219 -36.91797,-51.263674 a 74.374659,74.593369 0 0 0 0.37109,-7.433594 74.374659,74.593369 0 0 0 -74.375,-74.5937501 74.374659,74.593369 0 0 0 -0.1582,0 z"
        transform="scale(0.26458333)" />
   </g>
   <g
      inkscape:label="Text"
      id="layer2"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        id="text836"
-       y="34.432114"
-       x="11.860039"
+       y="36.169361"
+       x="22.156786"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-         y="34.432114"
-         x="11.860039"
+         y="36.169361"
+         x="22.156786"
          id="tspan834"
-         sodipodi:role="line">About me</tspan></text>
+         sodipodi:role="line">Email</tspan></text>
   </g>
 </svg>

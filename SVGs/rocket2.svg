@@ -38,8 +38,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="157.22405"
-     inkscape:cy="260.97482"
+     inkscape:cx="-152.24358"
+     inkscape:cy="108.38464"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -227,25 +227,27 @@
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect871);" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="31.938709"
-       y="51.315754"
-       id="text877"><tspan
+       style="font-style:normal;font-weight:normal;font-size:9.8206px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245516"
+       x="29.637009"
+       y="54.869053"
+       id="text877"
+       transform="scale(1.0776631,0.9279338)"><tspan
          sodipodi:role="line"
          id="tspan875"
-         x="31.938709"
-         y="51.315754"
-         style="stroke-width:0.264583">I</tspan></text>
+         x="29.637009"
+         y="54.869053"
+         style="stroke-width:0.245516">I</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="32.384155"
-       y="89.507187"
-       id="text877-5"><tspan
+       style="font-style:normal;font-weight:normal;font-size:9.8206px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245516"
+       x="30.050354"
+       y="95.450493"
+       id="text877-5"
+       transform="scale(1.0776631,0.9279338)"><tspan
          sodipodi:role="line"
          id="tspan875-8"
-         x="32.384155"
-         y="89.507187"
-         style="stroke-width:0.264583">I</tspan></text>
+         x="30.050354"
+         y="95.450493"
+         style="stroke-width:0.245516">I</tspan></text>
   </g>
 </svg>

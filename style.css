@@ -48,6 +48,16 @@ body{
     animation-duration: 3s;
 }
 
+
+#cloud1{
+    margin-right: 50px;
+}
+
+#cloud2{
+    margin-left: 50px;
+}
+
+
 .cloud{
     position: relative;
     animation-name: cloud;
