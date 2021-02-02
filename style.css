@@ -32,7 +32,7 @@ body{
 
 #rocket2{
     position: relative;
-    animation-name: rocket1;
+    animation-name: rocket2;
     animation-duration: 3s;
 }
 
@@ -48,7 +48,6 @@ body{
     animation-duration: 3s;
 }
 
-
 #cloud1{
     margin-right: 50px;
 }
@@ -57,14 +56,22 @@ body{
     margin-left: 50px;
 }
 
-
 .cloud{
     position: relative;
     animation-name: cloud;
     animation-duration: 3s;
 }
 
+img{
+    cursor: pointer;
+}
+
 @keyframes rocket1{
+    0%   {top:100px;}
+    100% {top:0px;}
+}
+
+@keyframes rocket2{
     0%   {top:100px;}
     100% {top:0px;}
 }
