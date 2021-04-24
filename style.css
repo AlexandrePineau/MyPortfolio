@@ -13,9 +13,10 @@ body{
     background-attachment: fixed;
 }
 
-#cloudTable, td, th{
+td, th{
     padding-left: 50px;
     padding-right: 50px;
+    border: 2px solid black;
 }
 
 #row1{
